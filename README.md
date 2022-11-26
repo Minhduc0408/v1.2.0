@@ -10,7 +10,7 @@ python3 main.py
 ```
 # Username Lấy Tại
 ```sh
-http://traffic1s.com/username
+http://traffic1s.com/PassHaKiTo
 ```
 
 
