@@ -1,5 +1,5 @@
 # sáo sen hảo zung quỏ, xén zài quó-dâu bingchilling, quò hoen xi huấn bingchilling
-# Developer By: Vi Duc Hung 
+# Developer By: Vu Minh Duc  
 
 
 import base64
